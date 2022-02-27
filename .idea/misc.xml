@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/drawable/bg_circle.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/drawable/divider_medium.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/drawable/ic_baseline_domain_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/drawable/ic_sharp_work_outline_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/layout/activity_launch.xml" value="0.25" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/layout/fragment_employee_details.xml" value="0.2" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/layout/fragment_employee_list.xml" value="0.25" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/layout/item_list.xml" value="0.4" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/layout/launch_employee_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/menu/main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Dvlpr_Machine/Desktop/MachineTestWhiteRabbitGroup/MachineTestWhiteRabbitGroup/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26614583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
