@@ -4,4 +4,4 @@ Android app based on kotlin to show employee details fetched from api and stores
 SearchView is working perfectly with viewmodel, livedata and Room DB.
 But a little change is needed inside the adapter class to set the updated view after searching the list.
 Need to make the Model class type of the searched result list as same as the old list. (setData() inside the adapter class).
-Submitting this because the time limit assignmed for me has been exeeded
+Submitting this because the time limit assigned for me has been exceeded
